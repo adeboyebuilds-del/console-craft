@@ -199,7 +199,7 @@ export default function Home() {
             </div>
             <div>
               <p className="text-sm sm:text-base text-parchment-dim m-0">
-                Console Craft is developed by <strong className="text-parchment">Adeboye Thompson</strong>, a software developer, organist, and organ enthusiast based in Lagos, Nigeria. 
+                Console Craft was originally developed by <strong className="text-parchment">Adeboye Thompson</strong>, a software developer, organist, and organ enthusiast based in Lagos, Nigeria. 
                 With an academic background in Cellular and Molecular Biology from the University of Texas at Austin (2005), his technical journey is driven by a deep fascination with electronics, advanced programming, precision woodwork, sound processing, and structural design. Console Craft bridges his professional software expertise with his lifelong dedication to pipe organ artistry.
               </p>
             </div>

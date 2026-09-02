@@ -203,6 +203,17 @@ export default function Home() {
                 With an academic background in Cellular and Molecular Biology from the University of Texas at Austin (2005), his technical journey is driven by a deep fascination with electronics, advanced programming, precision woodwork, sound processing, and structural design. Console Craft bridges his professional software expertise with his lifelong dedication to pipe organ artistry.
               </p>
             </div>
+          </div> 
+          
+          <div className="max-w-[800px] mx-auto grid grid-cols-1 md:grid-cols-[200px_1fr] gap-8 items-center bg-walnut-panel border border-walnut-line rounded-xl p-8 text-left mt-10">
+            <div className="w-40 h-40 sm:w-48 sm:h-48 mx-auto rounded-lg overflow-hidden border border-walnut-line shrink-0">
+              <img src="/images/marco.jpeg" alt="Marco Natale" className="w-full h-full object-cover" loading="lazy" />
+            </div>
+            <div>
+              <p className="text-sm sm:text-base text-parchment-dim m-0">
+               I am <strong className="text-parchment">Marco Natale</strong>, a piano student born in 2000 at the Guido Cantelli Conservatory in Novara; I previously obtained a diploma in classical music composition from the Turin Conservatory. In my limited free time, I research and test virtual pipe organs, and I am here to recommend the best configurations for audio systems, organs, and pedalboards.
+              </p>
+            </div>
           </div>
 
 
